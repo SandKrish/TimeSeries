@@ -18,4 +18,9 @@ Prediction:
 
 ## [Simple Moving Average and Exponentially Weighted Moving Average](https://github.com/SandKrish/TimeSeries/blob/04a426f57432cfca6e5a2d61d490e6ba7b293003/SMA_EWMA.ipynb)
 This notebook covers various visualisation for Simple Moving Average and Exponentially Weighted Moving Average.
-Can read more about explanation of same in my medium blog [here](https://medium.com/codex/simple-moving-average-and-exponentially-weighted-moving-average-with-pandas-57d4a457d363).
+Can read more about mathematical concepts and detaled explanation of same in my medium blog [here](https://medium.com/codex/simple-moving-average-and-exponentially-weighted-moving-average-with-pandas-57d4a457d363).
+
+
+## [Deutsche Bank Stock Prediction Using LSTM](https://github.com/SandKrish/TimeSeries/blob/main/deutsche-bank-stock-prediction-using-lstm.ipynb)
+This notebook is used to analyse and visualise  Deutsche Bank Equity in New York, Germany and France. 
+LSTM model is created to predict the future value of stock of Equity in New York.
