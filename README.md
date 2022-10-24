@@ -10,3 +10,7 @@ This notebook handles
 * Simple Moving Average and Exponentially Weighted Moving Average
 * Plotting time series with .rolling()
 * ADF Test, Autocorrelation, Autocorrelation, ACF and PACF plots
+
+Prediction:
+* ARIMA used to analysis and predict values.
+* XGBRegressor used to analysis and predict unseen future values.
